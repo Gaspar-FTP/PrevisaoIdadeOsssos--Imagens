@@ -1,0 +1,10 @@
+{
+    "cSpell.words": [
+        "skimage"
+    ],
+    "python.analysis.extraPaths": [
+        "./Template-Repository/Code Files/evaluation_scripts",
+        "./Template-Repository/Code Files/training_scripts",
+        "./Template-Repository/Code Files/data_processing_scripts"
+    ]
+}
